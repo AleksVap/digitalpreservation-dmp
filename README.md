@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/125386835.svg)](https://zenodo.org/badge/latestdoi/125386835)
 # Correlating Alcohol Consumption and UFO Sightings in the USA
 
 The code in this repository explores the connection between the alcohol consumption per capita and the number of ufo sightings in the USA.
