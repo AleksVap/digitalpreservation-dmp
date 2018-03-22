@@ -6,8 +6,8 @@ The code in this repository explores the connection between the alcohol consumpt
 
 ## Data Sources
 
-* [NUFORC](http://www.nuforc.org/) UFO Sightings, downloaded from [Github](https://github.com/planetsig/ufo-reports)
-* [OECD Alcohol Consumption per Capita in the USA](https://data.oecd.org/healthrisk/alcohol-consumption.htm) via the OECD Data Portal
+* Ufo Sightings: Sigmond Axel. (2014). ufo-reports (Version commit-c0915f18186e5e2227083702049a838258001a2a) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1205624
+* Alcohol Consumption: OECD (2018), Alcohol consumption (indicator). doi: 10.1787/e6895909-en (Accessed on 22 March 2018) via https://data.oecd.org/healthrisk/alcohol-consumption.htm
 
 ## Running the code
 
