@@ -4,6 +4,12 @@
 
 The code in this repository explores the connection between the alcohol consumption per capita and the number of ufo sightings in the USA.
 
+## Prerequisites
+
+Prior to running the experiment make sure that the following folders exist:
+* `data/raw` - Folder to store the external datasets
+* `data/processed` - Folder to store the intermediate dataset in
+* `reports/figures` - Target folder for generated correlation plot
 
 ## Data Sources
 
