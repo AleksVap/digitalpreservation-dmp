@@ -9,6 +9,14 @@ The code in this repository explores the connection between the alcohol consumpt
 * Ufo Sightings: Sigmond Axel. (2014). ufo-reports (Version commit-c0915f18186e5e2227083702049a838258001a2a) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1205624
 * Alcohol Consumption: OECD (2018), Alcohol consumption (indicator). doi: 10.1787/e6895909-en (Accessed on 22 March 2018) via https://data.oecd.org/healthrisk/alcohol-consumption.htm
 
+The cited datasources have already been added to this repository. 
+
+Follow these instructions if you want to use updated versions of these datasource:
+
+1. Download CSV files to folder `data/raw`
+2. Set paths to CSV files in notebook `01_data-preprocessing.ipynb` by changing the values of `UFO_SIGHTINGS` and `ALC_CONSUMPTION`
+
+
 ## Running the code
 
 To run the code in this repository you will need to have access to a machine running `python` (at least version `3.5`) and pip.
