@@ -58,3 +58,8 @@ Boot a docker container via `docker run -i -p 8888:8888 <IMAGE_ID>` to start a j
     to login with a token:
         http://0.0.0.0:8888/?token=<SOME_TOKEN>
 ```
+
+## Architecture
+
+![System Architecure Diagram](https://github.com/mdietrichstein/digitalpreservation-dmp/blob/a117d99b00ec7def31bff4b79f9f6933badecce2/documentation/architecture.png)
+
