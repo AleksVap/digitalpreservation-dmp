@@ -2,7 +2,7 @@
 
 # Correlating Alcohol Consumption and UFO Sightings in the USA
 
-The code in this repository explores the connection between the alcohol consumption per capita and the number of ufo sightings in the USA.
+This experiment aims to explore the connection between the alcohol consumption per capita and the number of ufo sightings in the USA.
 
 ## Prerequisites
 
